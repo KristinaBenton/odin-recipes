@@ -1,2 +1,3 @@
 # odin-recipes
 The Odin Project Fundamentals Course - HTML Project - Recipes
+This project helped me get comfortable with the Git process, as well as allow me to apply everything I've learned regarding HTML thus far in The Odin Project curriculum. The main concepts of HTML are implemented in this project between headings, paragraphs, font styles (and why they are important), hyperlinks, images, and lists. I feel ready to create my own solo website using what I've learned from this project. - KB 7/20/22
